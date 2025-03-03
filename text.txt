@@ -1,2 +1,1 @@
-salam
-Bu file bashqlari terefinden deyishilib
+World!
