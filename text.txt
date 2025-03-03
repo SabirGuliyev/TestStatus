@@ -1,2 +1,2 @@
-salam
+Hello
 Bu file bashqlari terefinden deyishilib
